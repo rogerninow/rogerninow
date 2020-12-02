@@ -4,8 +4,8 @@
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rogerninow@hotmail.com)](mailto:rogerninow@hotmail.com)
 ---
 
-## Hi there,           
-I'm Róger Ninow, Software Developer at Grupo Plan Marketing in Novo Hamburgo / RS. 
+## Hi there
+I'm Róger Ninow, Software Developer at DataInfo in Blumenau / SC. 
 
 ##  About
 - Graduated in Analysis and Systems Development;
@@ -15,7 +15,8 @@ I'm Róger Ninow, Software Developer at Grupo Plan Marketing in Novo Hamburgo / 
 
 ## Tech Stack
 - Backend:  PHP, Laravel, Mysql, Redis and Docker; 
-- Frontend: Javascript, Typescript, HTML5/CSS3 and Vue.
+- Frontend: Javascript, Typescript, HTML5/CSS3 and Vue;
+- Mobile:   Ionic, Flutter and React Native.
 
 ## Others...
 [![Csharp Badge](https://img.shields.io/badge/-239120?style=flat-square&logo=c%20sharp&logoColor=white&link=https://docs.microsoft.com/pt-br/dotnet/csharp)](https://docs.microsoft.com/pt-br/dotnet/csharp) 
