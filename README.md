@@ -1,22 +1,44 @@
 # Róger Ninow
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/roger.ninow)](https://www.linkedin.com/in/roger.ninow/) 
-[![Site Badge](https://img.shields.io/badge/-Site-609926?style=flat-square&logo=google-chrome&logoColor=white&link=https://rogerninow.com)](https://www.rogerninow.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/roger.ninow)](https://www.linkedin.com/in/roger.ninow/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rogerninow@hotmail.com)](mailto:rogerninow@hotmail.com)
+
 ---
 
 ## Hi there
 I'm Róger Ninow, Software Developer at DataInfo in Blumenau / SC. 
 
 ##  About
-- Graduated in Analysis and Systems Development;
-- Degree in Software Engineering in progress;
-- Specialization in Cyber Security in progress;
-- ...
+- Graduated in Analysis and Systems Development (2020);
+- Degree in Software Engineering (2022);
+- MBA in Cyber Security (2021);
+- Specialization in Prevention and Investigation of Digital Crimes (2021);
+- Specialization in Network Security (2021);
 
-## Tech Stack
-- Backend:  PHP, Laravel, Mysql, Redis and Docker; 
-- Frontend: Javascript, Typescript, HTML5/CSS3 and Vue;
-- Mobile:   Ionic, Flutter and React Native.
+## Dev Stack
+### Backend:
+- Languages:  PHP, Python and C#;
+- Frameworks: Laravel, Codeigniter and NodeJS; 
+- Databases:  Mysql, Postgres, Redis and Oracle;
+
+### Frontend:
+- Languages:  Javascript, Typescript, HTML5 and CSS3;
+- Frameworks: Vue, Angular and React;
+
+### Mobile:
+- Languages: Typescript and Dart;
+- Frameworks: Ionic, Flutter and React Native.
+
+### Infrastructure / Environment:
+- Cloud: AWS, Heroku and Azure;
+- Tools: Docker.
+
+## Security Stack
+- Languages:  Python and Shell;
+- Frameworks: Metasploit and NIST;
+- Scan Tools: Dirb, Nmap, SQLMap, Maltego, Nikto and WPScan;
+- Sniffing and Network Analysis: Wireshark and TCPDump;
+- Password Tools: John the Ripper;
+- OS: Kali, Parrot OS and Debian.
 
 ## Others...
 [![Csharp Badge](https://img.shields.io/badge/-239120?style=flat-square&logo=c%20sharp&logoColor=white&link=https://docs.microsoft.com/pt-br/dotnet/csharp)](https://docs.microsoft.com/pt-br/dotnet/csharp) 
