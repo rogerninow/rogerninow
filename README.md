@@ -16,7 +16,7 @@
 
 ### About
 
-- I'm currently working at **[Datainfo]**
+- I'm currently a freelancer developer
 - You can ask me things on **[issues page]**
 - Connect with me on **[LinkedIn]**
 
@@ -80,16 +80,22 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <a href="https://dart.dev">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
       </a>
-      <br>C#
+      <br>Dart
     </td>
     <td align="center" width="96">
-      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
+      <a href="https://flutter.dev">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
       </a>
-      <br>.NET
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="https://firebase.google.com" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
     </td>
     <td align="center" width="96"> 
       <a href="https://www.oracle.com/br/database">
@@ -135,24 +141,6 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="https://dart.dev">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-      </a>
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-      <a href="https://flutter.dev">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <a href="https://firebase.google.com" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
     <td align="center" width="96"> 
       <a href="https://www.typescriptlang.org" >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
@@ -170,6 +158,24 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="48" height="48" alt="Ionic" />
       </a>
       <br>Ionic
+    </td>
+    <td align="center" width="96">
+      <a href="https://symfony.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony" />
+      </a>
+      <br>Symfony
+    </td>
+    <td align="center" width="96">
+      <a href="https://cakephp.org">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" width="48" height="48" alt="CakePHP" />
+      </a>
+      <br>CakePHP
+    </td>
+    <td align="center" width="96">
+      <a href="https://codeigniter.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter" />
+      </a>
+      <br>CodeIgniter
     </td>
     <td align="center" width="96">
       <a href="https://wordpress.com/pt-br" >
@@ -236,22 +242,16 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://codeigniter.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter" />
+      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>CodeIgniter
+      <br>C#
     </td>
     <td align="center" width="96">
-      <a href="https://symfony.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony" />
+      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
       </a>
-      <br>Symfony
-    </td>
-    <td align="center" width="96">
-      <a href="https://cakephp.org">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" width="48" height="48" alt="CakePHP" />
-      </a>
-      <br>CakePHP
+      <br>.NET
     </td>
     <td align="center" width="96"> 
       <a href="https://www.metasploit.com">
@@ -410,6 +410,5 @@
   </tr>
 </table>
 
-[datainfo]: https://www.datainfo.inf.br "Datainfo"
 [issues page]: https://github.com/rogerninow/rogerninow/issues "rogerninow/issues"
 [linkedin]: https://www.linkedin.com/in/rogerninow "Róger Ninow LinkedIn"
