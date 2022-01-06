@@ -1,5 +1,5 @@
 # Hello there! I'm Róger Ninow
-### A senior software engineer specialist in backend development
+### Specialist in web and mobile development.
 
 <p>
   <a href="https://github.com/rogerninow">
@@ -16,17 +16,19 @@
 
 ### About
 
-- I'm currently a freelancer developer
+- I'm currently working as a freelancer developer
 - You can ask me things on **[issues page]**
 - Connect with me on **[LinkedIn]**
 
 ### Academic
 
 - Graduated in Analysis and Systems Development (2020)
-- Degree in Software Engineering (2022)
 - MBA in Cyber Security (2021)
-- Specialization in Prevention and Investigation of Digital Crimes (2021)
-- Specialization in Network Security (2021)
+
+In progress:
+- Degree in Software Engineering (2023)
+- Specialization in Prevention and Investigation of Digital Crimes (2022)
+- Specialization in Network Security (2022)
 
 <br>
 
@@ -102,37 +104,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
       </a>
       <br>Oracle
-    </td>
-  </tr>
-</table>
-
-> Currently studying:
-
-<table>
-  <tr>
-     <td align="center" width="96"> 
-      <a href="https://nodejs.org" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
-      </a>
-      <br>Node
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://expressjs.com/pt-br" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://www.mongodb.com/pt-br" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://jestjs.io/pt-BR" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
-      </a>
-      <br>Jest
     </td>
   </tr>
 </table>
@@ -254,6 +225,18 @@
       <br>.NET
     </td>
     <td align="center" width="96"> 
+      <a href="https://nodejs.org" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
+      </a>
+      <br>Node
+    </td>
+    <td align="center" width="96"> 
+      <a href="https://expressjs.com/pt-br" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96"> 
       <a href="https://www.metasploit.com">
         <img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2.png" width="48" height="48" alt="Metasploit" />
       </a>
@@ -319,93 +302,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows" />
       </a>
       <br>Windows
-    </td>
-  </tr>
-</table>
-
-> Tools, IDE's and platforms:
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://git-scm.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-     <td align="center"  width="96">
-      <a href="https://getcomposer.org">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="48" height="48" alt="Composer" />
-      </a>
-      <br>Composer
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.npmjs.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
-      </a>
-      <br>NPM
-    </td>
-    <td align="center" width="96">
-        <a href="https://dbeaver.io">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" width="48" height="48" alt="Dbeaver" />
-      </a>
-      <br>Dbeaver
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://www.jetbrains.com/pt-br/phpstorm" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="48" height="48" alt="PHPStorm" />
-      </a>
-      <br>PHPStorm
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.jetbrains.com/pt-br/pycharm">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm">
-      </a>
-      <br>PyCharm
-    </td>
-    <td align="center" width="96">
-        <a href="https://visualstudio.microsoft.com/pt-br">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Composer" />
-      </a>
-      <br>Visual Studio
-    </td>
-    <td align="center" width="96">
-        <a href="https://code.visualstudio.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://slack.com/intl/pt-br/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="48" height="48" alt="Slack">
-      </a>
-      <br>Slack
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.gimp.org">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="48" height="48" alt="Gimp" />
-      </a>
-      <br>Gimp
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postman.com">
-        <img src="https://icon-library.com/images/postman-icon/postman-icon-6.jpg" width="48" height="48" alt="Postman" />
-      </a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.apple.com/xcode">
-        <img src="https://codewithchris-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/icons8-xcode-512.png" width="48" height="48" alt="Xcode" />
-      </a>
-      <br>Xcode
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.android.com/studio">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" width="48" height="48" alt="Android Studio" />
-      </a>
-      <br>Android Studio
     </td>
   </tr>
 </table>
