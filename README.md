@@ -1,29 +1,16 @@
-# Hello there! I'm Róger Ninow
-### Specialist in web and mobile development.
-
-<p>
-  <a href="https://github.com/rogerninow">
-    <img src="https://komarev.com/ghpvc/?username=rogerninow" alt="page views" />
-  </a>
-  <a href="https://github.com/rogerninow?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/rogerninow?color=green&logo=github">
-  </a>
-</p>
-
-<a href="https://github.com/rogerninow?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogerninow&show_icons=true&count_private=true&include_all_commits=true" alt="rogerninow" align="right" />
-</a>
+## Hello there!
+### I'm a software developer specialist in web and mobile.
 
 ### About
 
 - I'm currently working as a freelancer developer
 - You can ask me things on **[issues page]**
-- Connect with me on **[LinkedIn]**
+- You can find more information about me on my **[Website]** or **[LinkedIn]**
 
 ### Academic
 
-- Graduated in Analysis and Systems Development (2020)
-- MBA in Cyber Security (2021)
+- Graduated in Software Analysis and Development (2020)
+- MBA in Cybersecurity (2021)
 
 In progress:
 - Degree in Software Engineering (2023)
@@ -32,279 +19,469 @@ In progress:
 
 <br>
 
-### Tech
+### Technologies
+Some technologies that I use or already used in my projects:
 
-> Specialist in:
 
 <table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.php.net">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="https://laravel.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <a href="https://vuejs.org">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
-      </a>
-      <br>Vue
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://www.mysql.com" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="Mysql" />
-      </a>
-      <br>Mysql
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://www.linux.org" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-  </tr>
+    <thead>
+        <tr>
+             <th colspan="4">Mobile</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://flutter.dev">
+                    <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"/> 
+                    Flutter
+                </a>
+            </td>
+            <td>
+                <a href="https://dart.dev">
+                    <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart"/>
+                    Dart
+                </a>
+            </td>
+            <td>
+                <a href="https://kotlinlang.org">
+                    <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"/> 
+                 Kotlin
+                </a>
+            </td>
+            <td>
+                <a href="https://swift.org">
+                    <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift"/>
+                    Swift
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.javascript.com">
+                    <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/> 
+                    Javascript
+                </a>
+            </td>
+            <td>
+                <a href="https://ionicframework.com">
+                    <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic"/> 
+                    Ionic
+                </a>
+            </td>
+            <td>
+                <a href="https://developer.apple.com/xcode">
+                    <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode"/> 
+                    Xcode
+                </a>
+            </td>
+            <td>
+                <a href="https://developer.android.com/studio">
+                    <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"/> 
+                    Android Studio
+                </a>
+            </td>
+        </tr>
+    </tbody>
 </table>
 
-> Currently working with:
-
 <table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://dart.dev">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-      </a>
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-      <a href="https://flutter.dev">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <a href="https://firebase.google.com" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://www.oracle.com/br/database">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
-      </a>
-      <br>Oracle
-    </td>
-  </tr>
+    <thead>
+    <tr>
+        <th colspan="4">Frontend</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td width="25%">
+            <a href="https://www.javascript.com">
+                <img width="20%"
+                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                     alt="Javascript"/>
+                Javascript
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.typescriptlang.org">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"/>
+                Typescript
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://angular.io">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/>
+                Angular
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://vuejs.org">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJS"/>
+                VueJS
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="25%">
+            <a href="https://sass-lang.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS"/>
+                SASS
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://getbootstrap.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
+                Bootstrap
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://webpack.js.org">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack"/>
+                Webpack
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://graphql.org">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="Webstorm"/>
+                WebStorm
+            </a>
+        </td>
+    </tr>
+    </tbody>
 </table>
 
-> Already worked with:
-
 <table>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="https://www.typescriptlang.org" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://angular.io" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://ionicframework.com" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="48" height="48" alt="Ionic" />
-      </a>
-      <br>Ionic
-    </td>
-    <td align="center" width="96">
-      <a href="https://symfony.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony" />
-      </a>
-      <br>Symfony
-    </td>
-    <td align="center" width="96">
-      <a href="https://cakephp.org">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" width="48" height="48" alt="CakePHP" />
-      </a>
-      <br>CakePHP
-    </td>
-    <td align="center" width="96">
-      <a href="https://codeigniter.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter" />
-      </a>
-      <br>CodeIgniter
-    </td>
-    <td align="center" width="96">
-      <a href="https://wordpress.com/pt-br" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="Wordpress" />
-      </a>
-      <br>Wordpress
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://magento.com" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" width="48" height="48" alt="Magento" />
-      </a>
-      <br>Magento
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="https://www.python.org" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://www.postgresql.org" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://www.python.org" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://graphql.org" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://sass-lang.com" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="SASS" />
-      </a>
-      <br>SASS
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://jquery.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="Jquery" />
-      </a>
-      <br>Jquery 
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://www.embarcadero.com/br/products/delphi">
-        <img src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png" width="48" height="48" alt="Delphi" />
-      </a>
-      <br>Delphi
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
-      </a>
-      <br>.NET
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://nodejs.org" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
-      </a>
-      <br>Node
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://expressjs.com/pt-br" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://www.metasploit.com">
-        <img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2.png" width="48" height="48" alt="Metasploit" />
-      </a>
-      <br>Metasploit
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://owasp.org">
-        <img src="https://repository-images.githubusercontent.com/34677782/c00f6a80-8c32-11e9-8c45-ae2e91b28c90" width="48" height="48" alt="OWASP" />
-      </a>
-      <br>OWASP
-    </td>
-  </tr>
+    <thead>
+    <tr>
+        <th colspan="4">Backend</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td width="25%">
+            <a href="https://www.php.net">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP"/>
+                PHP
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://laravel.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel"/>
+                Laravel
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://codeigniter.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="Codeigniter"/>
+                Codeigniter
+            </a>
+        <td width="25%">
+            <a href="https://symfony.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony"/>
+                Symfony
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="25%">
+            <a href="https://www.javascript.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
+                Javascript
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://nodejs.org">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
+                NodeJS
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://expressjs.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express"/>
+                Express
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.jetbrains.com/phpstorm">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" alt="PHPStorm"/>
+                PHPStorm
+            </a>
+        </td>
+    </tr>
+    </tbody>
 </table>
 
-> Infrastructure and operational systems:
+<table>
+    <thead>
+    <tr>
+        <th colspan="4">Database</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td width="25%">
+            <a href="https://www.mysql.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL"/>
+                MySQL
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.postgresql.org/">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+                PostgreSQL
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.oracle.com/database">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/>
+                Oracle
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.sqlite.org">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite"/>
+                SQLite
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="25%">
+            <a href="https://redis.io">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/>
+                Redis
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://aws.amazon.com/rds">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="RDS"/>
+                RDS
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.mongodb.com/">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+                MongoDB
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://dbeaver.io">
+                <img width="20%" src="https://dbeaver.com/img/dbeaver-head.png" alt="Dbeaver"/>
+                DBeaver
+            </a>
+        </td>
+    </tr>
+    </tbody>
+</table>
 
 <table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://aws.amazon.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.nginx.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
-      </a>
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.apache.org">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />
-      </a>
-      <br>Apache
-    </td>
-    <td align="center"  width="96">
-      <a href="https://www.debian.org/index.pt.html">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.centos.org">
-        <img src="https://wiki.centos.org/ArtWork/Brand/Logo?action=AttachFile&do=get&target=centos-symbol.svg" width="48" height="48" alt="CentOS" />
-      </a>
-      <br>CentOS
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.android.com/intl/pt-BR_br">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" />
-      </a>
-      <br>Android
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.microsoft.com/pt-br/windows/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows" />
-      </a>
-      <br>Windows
-    </td>
-  </tr>
+    <thead>
+    <tr>
+        <th colspan="4">Infrastructure / Cloud</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td width="25%">
+            <a href="https://www.linux.org">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+                L . Server
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.microsoft.com/en-us/windows-server">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Server"/>
+                W . Server 
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://aws.amazon.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/>
+                AWS
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.oracle.com/cloud">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle OCI"/>
+                OCI
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="25%">
+            <a href="https://azure.microsoft.com/en-us">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure"/>
+                Azure
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://firebase.google.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase"/>
+                Firebase
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.heroku.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku"/>
+                Heroku
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.docker.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+                Docker
+            </a>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+    <tr>
+        <th colspan="4">Desktop</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+       <td width="25%">
+           <a href="https://flutter.dev">
+               <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"/>
+               Flutter
+           </a>
+       </td>
+        <td width="25%">
+            <a href="https://dart.dev">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart"/>
+                Dart
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://docs.microsoft.com/en-us/dotnet/csharp">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
+                C#
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://dotnet.microsoft.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".net"/>
+                .net
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="25%">
+            <a href="https://www.embarcadero.com/products/delphi">
+                <img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png" alt="Delphi"/>
+                Delphi
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.javascript.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
+                Javascript
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.electronjs.org">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron"/>
+                Electron
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://code.visualstudio.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
+                VS Code
+            </a>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+    <tr>
+        <th colspan="4">Security</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td width="25%">
+            <a href="https://www.python.org">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+                Python
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.linux.org">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+                Linux
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://www.metasploit.com">
+                <img width="20%" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit"/>
+                Metasploit
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://owasp.org/www-project-top-ten">
+                <img width="20%" src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png" alt="OWASP"/>
+                OWASP
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="25%" colspan="2">
+            <a href="https://grafana.com">
+                <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana"/>
+                Grafana
+            </a>
+        </td>
+        <td width="25%" colspan="2">
+            <a href="https://prometheus.io">
+                <img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus"/>
+                Prometheus
+            </a>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+    <tr>
+        <th colspan="4">Platforms</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td width="25%">
+            <a href="https://apex.oracle.com">
+                <img width="20%" src="https://www.oracle.com/a/ocom/img/dc/em/oracle-apex.png" alt="Apex"/>
+                Apex
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://wordpress.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="Wordpress"/>
+                Wordpress
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://woocommerce.com">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce"/>
+                WooCommerce
+            </a>
+        </td>
+        <td width="25%">
+            <a href="https://business.adobe.com/products/magento/magento-commerce.html">
+                <img width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" alt="Magento"/>
+                Magento
+            </a>
+        </td>
+    </tr>
+    </tbody>
 </table>
 
 [issues page]: https://github.com/rogerninow/rogerninow/issues "rogerninow/issues"
 [linkedin]: https://www.linkedin.com/in/rogerninow "Róger Ninow LinkedIn"
+[website]: https://rogerninow.com "Róger Ninow Site"
