@@ -1,11 +1,29 @@
 ## Hello there!
-### I'm a software developer specialist in web and mobile.
+### I'm a software engineer specialist in web and mobile development.
 
 ### About
 
-- I'm currently working as a freelancer developer
+- I'm currently working as a Software Engineer
 - You can ask me things on **[issues page]**
-- You can find more information about me on my **[Website]** or **[LinkedIn]**
+- You can find more information about me in the links bellow.
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/rogerninow" target="_blank">
+        <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/640px-LinkedIn_icon_circle.svg.png" alt="LinkedIn" />
+    </a>
+    <a href="https://www.upwork.com/freelancers/~0135e8eca388062000" target="_blank">
+        <img width="50px" src="https://www.svgrepo.com/show/331630/upwork.svg" alt="Upwork" />
+    </a>
+    <a href="https://stackoverflow.com/users/7568087/roger-ninow" target="_blank">
+        <img width="50px" src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" alt="Stack Overflow" />
+    </a>
+    <a href="https://developers.google.com/profile/u/rogerninow" target="_blank">
+        <img width="50px" src="https://cdn-icons-png.flaticon.com/512/518/518705.png" alt="Google Developer" />
+    </a>
+    <a href="https://rogerninow.com" target="_blank">
+        <img width="50px" src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" alt="Personal site" />
+    </a>
+</div>
 
 ### Academic
 
@@ -14,8 +32,8 @@
 
 In progress:
 - Degree in Software Engineering (2023)
-- Specialization in Prevention and Investigation of Digital Crimes (2022)
-- Specialization in Network Security (2022)
+- Specialization in Prevention and Investigation of Digital Crimes (20231)
+- Specialization in Network Security (2023)
 
 <br>
 
@@ -453,5 +471,3 @@ Some technologies that I use or already used in my projects:
 </table>
 
 [issues page]: https://github.com/rogerninow/rogerninow/issues "rogerninow/issues"
-[linkedin]: https://www.linkedin.com/in/rogerninow "Róger Ninow LinkedIn"
-[website]: https://rogerninow.com "Róger Ninow"
